@@ -6,7 +6,7 @@ pool:
 
 variables:
   serviceConnection: 'Free_SQL'        # Azure Resource Manager service connection
-  webAppName: 'REPLACE-WITH-NEW-APP'   # a NEW App Service for this page (not 'abhishekk')
+  webAppName: 'abhishekk'   # a NEW App Service for this page (not 'abhishekk')
 
 stages:
 - stage: Build
